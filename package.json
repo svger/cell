@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "@cefc-ui/cell",
   "version": "0.0.1",
   "description": "CEFC-UI Component",
   "main": "build/index.js",
@@ -14,12 +14,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@cefc-utils/tools": "^1.0.22"
+    "@cefc-ui/style": "~0.0.3",
+    "prop-types": "~15.6.0",
+    "react": "~16.1.1",
+    "react-dom": "~16.1.1"
   },
   "devDependencies": {
-    "react-dom": "^0.14.7",
-    "react-css-modules": "^3.7.10",
-    "react": "^0.14.7",
-    "classnames": "^2.2.5"
-  }
+    "cefc-tools": "~0.0.3",
+    "classnames": "~2.2.5"
+  },
+  "theme": "../Style/src/themes/default.less"
 }
