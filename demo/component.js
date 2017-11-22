@@ -15,7 +15,7 @@ class App extends React.Component {
               <span>请选择</span>
             </Cell.Right>
           </Cell.Item>
-          <Cell.Item>
+          <Cell.Item label>
             <Cell.Left text="银行卡号" />
             <Cell.Right arrow>
               <input type="tel" />
