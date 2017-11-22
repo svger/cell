@@ -1,5 +1,10 @@
 {
+<<<<<<< HEAD
   "name": "@cefc-ui/cell",
+=======
+  "name": "",
+  "private": "true",
+>>>>>>> fa4d52c92ebacf7b7ca977f3411815c96724d85b
   "version": "0.0.1",
   "description": "CEFC-UI Component",
   "main": "build/index.js",
