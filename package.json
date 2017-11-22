@@ -11,7 +11,7 @@
   "repository": {
     "type": "git"
   },
-  "author": "",
+  "author": "Kane",
   "license": "ISC",
   "dependencies": {
     "@cefc-ui/style": "~0.0.3",

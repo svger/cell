@@ -6,7 +6,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <div>Cell Demo</div>
+        <h1>Cell Demo</h1>
         <Cell>
           <Cell.Title>添加银行卡</Cell.Title>
           <Cell.Item>
